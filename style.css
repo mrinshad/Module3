@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  color: white;
+  background-color: rgb(130, 123, 123);
+}
+.navbar-dark .navbar-brand {
+  color: rgb(0, 0, 0);
+}
+
+h3 {
+  text-align: center;
+  padding-top: 15px;
+}
+h2 {
+  text-align: center;
+  padding-bottom: 15px;
+}
+.container {
+  width: 100%;
+  background-color: rgb(224, 220, 220);
+}
